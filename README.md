@@ -10,3 +10,6 @@ atom_robotics VITC
 **PID to control**  
 
 1.To control_sensors
+
+**To follow the line and stay on track**
+
